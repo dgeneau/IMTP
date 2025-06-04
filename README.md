@@ -12,3 +12,7 @@ Basic Reporting for IMTP Testing
 - You can naviagte to a quiet standing section, detect body weight and then enter body weight into the numerical input.
 - Download CSV button will download the summary table at the bottom of the page
 - Asymmetry calculation defined as ((Right - Left)/(Right + Left))
+
+
+## App
+- Available at the link here: https://csip-imtp-processing.streamlit.app/ 
